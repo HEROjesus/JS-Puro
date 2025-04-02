@@ -32,5 +32,5 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ---
 
-Feito com ❤️ por [Rafael de jesus](https://github.com/HERO-jesus)
+Feito com ❤️ por [Rafael de jesus](https://github.com/HEROjesus)
 
