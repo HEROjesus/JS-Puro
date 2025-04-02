@@ -1,6 +1,6 @@
 # 🎉 Lista de Convidados
 
-![Demonstração do Projeto](./assets/projeto.png)
+![Demonstração do Projeto](./assets/Projeto.png)
 
 Um mini projeto simples e elegante para gerenciar uma lista de convidados, com animação suave ao adicionar novos nomes.
 
